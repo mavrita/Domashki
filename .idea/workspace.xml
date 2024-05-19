@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1dbbfdfa-0668-4e17-ba93-88078bfa7954" name="Changes" comment="Задача 3">
+      <change afterPath="$PROJECT_DIR$/Д/domashka 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Д/domashka3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2fasg7EsJyQ7WQyuuhCNKTgW912" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,6 +36,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.anogrammy.executor": "Run",
+    "Python.domashka 2.executor": "Run",
+    "Python.domashka3.executor": "Run",
+    "Python.fibbonachi.executor": "Run",
     "Python.Задача 1.executor": "Run",
     "Python.Задача 2.executor": "Run",
     "Python.Задача 3.executor": "Run",
@@ -71,6 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1714050632277</updated>
       <workItem from="1714050635094" duration="10643000" />
+      <workItem from="1715895928602" duration="8000" />
+      <workItem from="1715895989942" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="Задача 3">
       <option name="closed" value="true" />
@@ -120,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715790391141</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Задача 3">
+      <option name="closed" value="true" />
+      <created>1715896233463</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715896233463</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,9 +148,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$anogrammy.coverage" NAME="anogrammy Coverage Results" MODIFIED="1715790361338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Д" />
+    <SUITE FILE_PATH="coverage/$domashka_2.coverage" NAME="domashka 2 Coverage Results" MODIFIED="1716156094779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Д" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="калькулятор Coverage Results" MODIFIED="1715720739005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$_2.coverage" NAME="Задача 2 Coverage Results" MODIFIED="1714147031795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$_3.coverage" NAME="Задача 3 Coverage Results" MODIFIED="1714147517044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$domashka3.coverage" NAME="domashka3 Coverage Results" MODIFIED="1716156083812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Д" />
     <SUITE FILE_PATH="coverage/$_1.coverage" NAME="Задача 1 Coverage Results" MODIFIED="1714145772827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$fibbonachi.coverage" NAME="fibbonachi Coverage Results" MODIFIED="1715896123147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Д" />
   </component>
 </project>
